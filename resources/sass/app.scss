@@ -1,0 +1,19 @@
+.avatar-image {
+    vertical-align: middle;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.button-without-style {
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0 !important;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
